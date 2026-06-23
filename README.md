@@ -70,7 +70,7 @@ This project is being developed as a portfolio project to combine software engin
 
 ### Backend
 
-* Java 21
+* Java 17
 * Spring Boot
 * Spring Security
 * Spring Data JPA
